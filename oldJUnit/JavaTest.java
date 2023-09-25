@@ -1,7 +1,7 @@
 package oldJUnit;
 
 /*
- * If this was a typical test case, it would be invoking methods of the class to be tested.
+ * If this was a typical test case,it would be invoking methods of the class to be tested.
  */
 
 import junit.framework.TestCase;
